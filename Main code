@@ -1,0 +1,9 @@
+_G.PlayerTarget = "Name of the target"
+_G.DelayTime = 20
+_G.Disabled = false
+
+_G.FileName = "FileName"
+_G.TableThingy = {
+    AmountFarmed = 1
+}
+_G.WebhookUrl = "places your own webhook"
